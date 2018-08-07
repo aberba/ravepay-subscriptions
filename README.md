@@ -5,7 +5,7 @@ This is a WIP unofficial [RavePay](https://ravepay.flutterwave.com) subscription
 Using Node.js v8.X or lastest, you install using:
 
 ```sh
-npm install ravepay-subscription
+npm install ravepay-subscriptions
 ```
 
 > ## Important!
