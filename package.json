@@ -1,0 +1,21 @@
+{
+    "name": "ravepay-subscription",
+    "version": "0.0.1",
+    "description": "RavePay subscription API for Node.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "keywords": [
+        "Flutterwave",
+        "RavePay",
+        "rave",
+        "subscription",
+        "payment"
+    ],
+    "author": "Lawrence Aberba",
+    "license": "BSL-1.0",
+    "dependencies": {
+        "node-fetch": "^1.7.3"
+    }
+}
