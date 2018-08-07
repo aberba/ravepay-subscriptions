@@ -1,6 +1,6 @@
 {
-    "name": "ravepay-subscription",
-    "version": "0.0.1",
+    "name": "ravepay-subscriptions",
+    "version": "0.0.2",
     "description": "RavePay subscription API for Node.js",
     "main": "index.js",
     "scripts": {
